@@ -19,8 +19,8 @@ $ git clone https://github.com/mamehaku-prod/go_todoapp.git
 $ cd go_todoapp
 $ go mod tidy
 $ go run main.go
+```
 <br><br>
 
 実行した状態でローカルホストにアクセス<br>
-```code
 http://localhost:8080
