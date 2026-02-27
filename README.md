@@ -9,6 +9,6 @@ Email: test@example.com
 
 [Create]ボタンから、新しいTodoを作成できます。
 [Edit]ボタンから入力したTodoの修正ができます。
-[Delte]ボタンを押すとTodoの削除ができます。
+[Delete]ボタンを押すとTodoの削除ができます。
 [Completed]ボタンで入力済みのTodoを完了扱いにできます。（グレーアウト）
 [Imcompleted]ボタンで完了扱いにしたTodoを再度活性化できます。
