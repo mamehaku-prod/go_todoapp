@@ -13,14 +13,15 @@ ToDoアプリとしての機能は、ToDoの作成、修正、削除、完了、
 7. [Incompleted]ボタンを押すと、完了扱いになったToDoが再度活性化します。<br><br>
 
 ## インストール方法およびアクセス方法
-'''bush
+下記を実行<br>
+```bush
 git clone https://github.com/mamehaku-prod/go_todoapp.git
 cd go_todoapp
 go mod tidy
 go run main.go
-'''
+```<br><br>
 
-'''code
+実行した状態でローカルホストにアクセス<br>
+```code
 http://localhost:8080
-'''
-にアクセス
+```
