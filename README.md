@@ -20,7 +20,9 @@ $ cd go_todoapp
 $ go mod tidy
 $ go run main.go
 ```
-<br><br>
+<br>
 
 実行した状態でローカルホストにアクセス<br>
+```bush
 http://localhost:8080
+```
