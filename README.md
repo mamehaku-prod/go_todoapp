@@ -10,4 +10,17 @@ ToDoアプリとしての機能は、ToDoの作成、修正、削除、完了、
 4. [Edit]で入力したToDoの内容を修正できます。<br>
 5. [Delete]ボタンを押すと、ToDoの削除ができます。<br>
 6. [Completed]ボタンを押すと、ToDoが完了扱いになります。<br>
-7. [Incompleted]ボタンを押すと、完了扱いになったToDoが再度活性化します。
+7. [Incompleted]ボタンを押すと、完了扱いになったToDoが再度活性化します。<br><br>
+
+## インストール方法およびアクセス方法
+'''bush
+git clone https://github.com/mamehaku-prod/go_todoapp.git
+cd go_todoapp
+go mod tidy
+go run main.go
+'''
+
+'''code
+http://localhost:8080
+'''
+にアクセス
