@@ -12,6 +12,11 @@ ToDoアプリとしての機能は、ToDoの作成、修正、削除、完了、
 6. [Completed]ボタンを押すと、ToDoが完了扱いになります。<br>
 7. [Incompleted]ボタンを押すと、完了扱いになったToDoが再度活性化します。<br><br>
 
+## 使用技術
+プログラミング言語：Go<br>
+ライブラリ/フレームワーク: Bootstrap, jQuery<br>
+DB: SQLite3
+
 ## インストール方法およびアクセス方法
 下記を実行<br>
 ```bush
