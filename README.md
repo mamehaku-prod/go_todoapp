@@ -21,8 +21,9 @@ DB: SQLite3
 下記を実行<br>
 ```bush
 $ git clone https://github.com/mamehaku-prod/go_todoapp.git
-$ cd go_todoapp
+$ cd go_todoapp/Sec_17-18
 $ go mod tidy
+$ cd todoapp
 $ go run main.go
 ```
 <br>
